@@ -1,0 +1,11 @@
+LD B
+ML C
+ST T1
+LD A
+AD T1
+ST T2
+LD D
+SB E
+ST T3
+LD T2
+DV T3
